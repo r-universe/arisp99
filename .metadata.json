@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "CAvaccines"
+  },
+  {
+    "package": "coiaf"
+  },
+  {
+    "package": "miplicorn"
+  },
+  {
+    "package": "nof1gen"
+  }
+]
